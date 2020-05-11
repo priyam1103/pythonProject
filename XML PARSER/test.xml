@@ -1,0 +1,29 @@
+<?xml version = "1.0"?>
+<phonebook>
+   <person index = "1">
+      <firstname>Shivani</firstname>
+      <lastname>Beldale</lastname>
+      <nickname>Shivani</nickname>
+      <number>9876543210</number>
+   </person>
+   
+   <person index = "2">
+      <firstname>ABC</firstname>
+      <lastname>XYZ</lastname>
+      <nickname>AX</nickname>
+      <number>975462130</number>
+   </person>
+   
+   <person index = "3">
+      <firstname>Bill</firstname>
+      <lastname>gates</lastname>
+      <nickname>Bill</nickname>
+      <number>456455665</number>
+   </person>
+     <person index = "4">
+      <firstname>Jss</firstname>
+      <lastname>Bangalore</lastname>
+      <nickname>JSSATE</nickname>
+      <number>84561234</number>
+   </person>
+</phonebook>
